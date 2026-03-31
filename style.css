@@ -74,6 +74,9 @@ body {
   padding: 64px 48px;
   position: relative;
   overflow: hidden;
+  background-image: url('images/hero.jpg');
+  background-size: cover;
+  background-position: center;
 }
 
 .hero-right::before {
